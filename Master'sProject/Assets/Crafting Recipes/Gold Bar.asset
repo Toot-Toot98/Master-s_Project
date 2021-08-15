@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3247e05e520f8d4c8ca173a2dc8e890, type: 3}
+  m_Name: Gold Bar
+  m_EditorClassIdentifier: 
+  Materials:
+  - Item: {fileID: 11400000, guid: c62af7d96062fad4f85df32845e52643, type: 2}
+    Amount: 1
+  Results:
+  - Item: {fileID: 11400000, guid: 01aae6cf4177da049aba1ab84c7d21cd, type: 2}
+    Amount: 1
